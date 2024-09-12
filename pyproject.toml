@@ -1,0 +1,9 @@
+
+[project]
+name = "app"
+version = "0.1.0"
+description = "Learn to build zope2"
+requires-python = "~=3.9"
+dependencies = [
+    "zope2==4.0",
+]
